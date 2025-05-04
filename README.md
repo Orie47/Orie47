@@ -18,11 +18,6 @@ Built during the TAU CS Hackathon (1st Place out of 50+ teams)
 - Developed full functionality in under 36 hours with a 4-person team.  
 - Sponsored and judged by Apple, Salesforce, AT&T, and others.
 
-### 📊 K-Means Clustering Algorithm – Python  
-[GitHub Repo](https://github.com/Orie47/k-means-clustering-algorithm)  
-- Implemented unsupervised ML from scratch using NumPy and visualized results with Matplotlib.  
-- Demonstrated clean code, algorithmic thinking, and understanding of iterative optimization.
-
 ### 👨‍🏫 Volunteer Instructor – Moach Project  
 - Taught programming, math, and English to high school students from low-income communities.  
 - Prepared them for matriculation exams and inspired a future in tech.
